@@ -1,5 +1,5 @@
 # 📅 Planificación de la actividad: Supuesto práctico SOR
-Repositorio con materiales para el supuesto práctico del módulo profesional [SOR]-SISTEMAS OPERATIVOS EN RED. Programa **CONSIGUE+** - 
+Repositorio con materiales para el supuesto práctico del módulo profesional [SOR]-SISTEMAS OPERATIVOS EN RED - Programa **CONSIGUE+** - 
 Academia Básica del Aire y del Espacio de León (ABA) - 
 **MODALIDAD**: Presencial - 
 **DURACIÓN**: 10 horas (5 horas + 5 horas)
