@@ -16,6 +16,7 @@
 1.- Instalación el rol **Servicios de dominio de Active Directory**
   
   -- Importante: Lo debe hacer un usuario *Administrador* y la configuración IP del servidor es conveniente que sea estática.
+  
 2.- Promocionar el servidor como controlador de dominio.
   
   -- Primer controlador de dominio de un nuevo bosque, se llamará *miempresaXXX.local*, nivel de funcionalidad, contraseña de restauración de los 
