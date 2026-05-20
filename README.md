@@ -28,8 +28,11 @@ Aprender a instalar y configurar un entorno de red corporativa con:
 | **HORA** | **ACTIVIDAD** | **CONTENIDO** |
 | --- | --- | --- |
 | 0:00 - 0:30 | Introducción | Presentación de las jornadas y entorno de trabajo |
-| 0:30 - 1:30 | Entorno virtual | Instalación de VirtualBox. Configuración inicial 
-                                  Creación de MVs: Windows Server. Requisitos para la instalación|
+| 0:30 - 1:30 | Entorno virtual | Instalación de VirtualBox. Configuración inicial |
+| | | Descarga de las imágenes ISO desde las web oficiales |
+| | | Creación de MVs: Windows Server. Requisitos para la instalación |
+| | | Creación de MVs: Ubuntu Server. Configuración por defecto |
+| | | Cuestionario alumnado |
 | 1:30 - 2:30 | 
 
 ---
