@@ -33,17 +33,16 @@ Aprender a instalar y configurar un entorno de red corporativa con:
 | | | Creación de MVs: Windows Server. Requisitos para la instalación |
 | | | Creación de MVs: Ubuntu Server. Configuración por defecto |
 | | | Cuestionario alumnado |
-| 1:30 - 2:30 | 
-
----
-
-## Sesión 2 (2h)
-
-**Configuración y utilidades**
-* Software del monitor. Configuración.
-* **LABORATORIO 2**: Configuración del monitor interactivo (60 minutos).
-* EsharePRO.
-* **LABORATORIO 3**: Mirroring – Proyección inalámbrica en el monitor interactivo (60 minutos).
+| 1:30 - 2:30 | Active Directory (Parte 1) | Clonación de MVs (Generar nuevas MAC) |
+| | | Creación de grupos: "Máquinas limpias" y "Máquinas SOR" |
+| | | Instantánea antes de AD |
+| | | Instalación del rol AD DS |
+| | | Promoción a Controlador de Dominio: Nuevo bosque: miempresaXXX.local, Contraseña DSRM: P@ssw0rd, Servidor DNS automático |
+| 2:30 - 3:30 | Active Directory (Parte 2) | Clonación de MVs (Generar nuevas MAC) |
+| | | Creación de MVs: Windows 11. Requisitos para la instalación |
+| | | Unión del equipo W11 al dominio *miempresaXXX.local* |
+| | | Inicio de sesión con un usuario del dominio en el cliente W11 | 
+| 3:30 - 4:00 | Preguntas y cierre | |
 
 ---
 
