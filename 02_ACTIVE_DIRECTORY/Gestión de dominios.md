@@ -13,10 +13,10 @@
 - *Debate: ¿Por qué resulta conveniente trabajar con instantáneas en un entorno de virtualización?*
 
 ## Instalación del Directorio Activo (Active Directory AD DS) en un servidor Windows Server 2022
-- Instalación el rol **Servicios de dominio de Active Directory**
+1.- Instalación el rol **Servicios de dominio de Active Directory**
   
   -- Importante: Lo debe hacer un usuario *Administrador* y la configuración IP del servidor es conveniente que sea estática.
-- Promocionar el servidor como controlador de dominio.
+2.- Promocionar el servidor como controlador de dominio.
   
   -- Primer controlador de dominio de un nuevo bosque, se llamará *miempresaXXX.local*, nivel de funcionalidad, contraseña de restauración de los 
   servicios del directorio DSRM, servidor DNS, nombre NetBIOS del dominio y la ubicación de los datos del directorio.
