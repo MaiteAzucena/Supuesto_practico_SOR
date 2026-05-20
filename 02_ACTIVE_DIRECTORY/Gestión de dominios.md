@@ -14,7 +14,13 @@
 
 ## Instalación del Directorio Activo (Active Directory AD DS) en un servidor Windows Server 2022
 - Instalación el rol **Servicios de dominio de Active Directory**
--- Importante: Lo debe hacer un usuario Administrador y la configuración IP del servidor es conveniente que sea estática.
+  
+  -- Importante: Lo debe hacer un usuario *Administrador* y la configuración IP del servidor es conveniente que sea estática.
 - Promocionar el servidor como controlador de dominio.
--- primer controlador de dominio de un nuevo bosque, se llamará miempresaXXX.local, nivel de funcionalidad, contraseña de restauración de los 
-servicios del directorio DSRM, servidor DNS, nombre NetBIOS del dominio y la ubicación de los datos del directorio.
+  
+  -- Primer controlador de dominio de un nuevo bosque, se llamará *miempresaXXX.local*, nivel de funcionalidad, contraseña de restauración de los 
+  servicios del directorio DSRM, servidor DNS, nombre NetBIOS del dominio y la ubicación de los datos del directorio.
+- Cuestionario alumnado ( Kahoot: https://kahoot.it/ )
+- 🎯 *Pregunta para el alumando: En una red con dominio, ¿qué papel juega el servidor respecto a los clientes?*
+
+  
