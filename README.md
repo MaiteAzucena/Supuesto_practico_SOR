@@ -9,7 +9,9 @@ Academia Básica del Aire y del Espacio de León (ABA) -
 | **HORA** | **ACTIVIDAD** | **CONTENIDO** |
 | --- | --- | --- |
 | 0:00 - 0:30 | Introducción | Presentación de las jornadas y entorno de trabajo |
-| 0:30 - 1:30 | Entorno virtual | Instalación de VirtualBox |
+| 0:30 - 1:30 | Entorno virtual | * Instalación de VirtualBox 
+* VT-x habilitado
+* instalación de VirtualBox + Extension Pack + Guest Additions|
 | 1:30 - 2:30 | 
 
 ---
