@@ -4,14 +4,13 @@ Academia Básica del Aire y del Espacio de León (ABA) -
 **MODALIDAD**: Presencial - 
 **DURACIÓN**: 10 horas (5 horas + 5 horas)
 
-## Sesión 1 (2h)
+## Jornada 1 (4-5h)
 
-**Introducción**
-* Presentación del curso y entorno de trabajo (monitor interactivo, repositorios, laboratorios).
-* Monitor interactivo vs. pizarra digital.
-* Elementos hardware del monitor.
-* Software del monitor. Funcionalidades.
-* **LABORATORIO 1**: Funcionalidades básicas del monitor interactivo (60-75 minutos).
+| **HORA** | **ACTIVIDAD** | **CONTENIDO** |
+| --- | --- | --- |
+| 0:00 - 0:30 | Introducción | Presentación de las jornadas y entorno de trabajo |
+| 0:30 - 1:30 | Entorno virtual | Instalación de VirtualBox |
+| 1:30 - 2:30 | 
 
 ---
 
