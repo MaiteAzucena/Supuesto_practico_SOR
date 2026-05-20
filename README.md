@@ -40,8 +40,7 @@ Aprender a instalar y configurar un entorno de red corporativa con:
 | | | Instantánea antes de AD |
 | | | Instalación del rol AD DS |
 | | | Promoción a Controlador de Dominio |
-| 2:30 - 3:30 | Active Directory (Parte 2) | Clonación de MVs |
-| | | Creación de MVs: Windows 11. Requisitos para la instalación |
+| 2:30 - 3:30 | Active Directory (Parte 2) | Creación de MVs: Windows 11. Requisitos para la instalación |
 | | | Unión del equipo W11 al dominio *miempresaXXX.local* |
 | | | Inicio de sesión con un usuario del dominio en el cliente W11 | 
 | 3:30 - 4:00 | Preguntas y cierre | |
