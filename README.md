@@ -23,6 +23,8 @@ Aprender a instalar y configurar un entorno de red corporativa con:
 | `05_INTEGRACION_LINUX/` | Linux Mint, integración con AD, acceso a recursos Windows-Linux |
 | `06_MONITORIZACION/` | Visor de eventos, auditoría, monitor de rendimiento, top/htop |
 
+---
+
 ## Jornada 1 (4-5h)
 
 | **HORA** | **ACTIVIDAD** | **CONTENIDO** |
