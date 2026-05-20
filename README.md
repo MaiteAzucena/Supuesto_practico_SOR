@@ -16,7 +16,7 @@ Aprender a instalar y configurar un entorno de red corporativa con:
 
 | Carpeta | Contenido |
 |---------|-----------|
-| `01_INSTALACION_VIRTUALBOX/` | Requisitos, instalación de VirtualBox, ISOs, creación de MVs |
+| `01_Instalación de SO en Red/` | Requisitos, instalación de VirtualBox, ISOs, creación de MVs |
 | `02_ACTIVE_DIRECTORY/` | Clonación, grupos, promoción a DC, unión de clientes al dominio |
 | `03_GESTION_USUARIOS/` | OUs, grupos, usuarios, horarios, perfiles móviles y obligatorios |
 | `04_RECURSOS_COMPARTIDOS/` | Carpetas y permisos, scripts de conexión, servidor de impresión |
