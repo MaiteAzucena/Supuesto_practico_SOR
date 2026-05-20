@@ -28,10 +28,8 @@ Aprender a instalar y configurar un entorno de red corporativa con:
 | **HORA** | **ACTIVIDAD** | **CONTENIDO** |
 | --- | --- | --- |
 | 0:00 - 0:30 | Introducción | Presentación de las jornadas y entorno de trabajo |
-| 0:30 - 1:30 | Entorno virtual | Instalación de VirtualBox |
-| | | VT-x habilitado |
-| | | Instalación de VirtualBox + Extension Pack + Guest Additions |
-| | | Cuestionario VirtualBox |
+| 0:30 - 1:30 | Entorno virtual | Instalación de VirtualBox. Configuración inicial 
+                                  Creación de MVs: Windows Server. Requisitos para la instalación|
 | 1:30 - 2:30 | 
 
 ---
