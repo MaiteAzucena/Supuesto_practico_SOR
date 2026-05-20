@@ -6,6 +6,8 @@
 - Mínimo 16 GB RAM para ejecutar 3 MVs simultáneas
 - 150 GB libres en disco
 
+---
+
 ### 1. VirtualBox. Configuración inicial
 - VT-x habilitado.
 - Instalación de VirtualBox + Extension Pack + Guest Additions.
@@ -21,5 +23,18 @@
 - 2 CPUs
 - 500GB dinámico con 3 particiones (una de 150GB para el sistema operativo (SISTEMA), otra de 200GB para DATOS y el resto para poder hacer copias de seguridad (BACKUP)).
 - Configuración inicial de la red:
-  <img width="506" height="188" alt="image" src="https://github.com/user-attachments/assets/d5cf6c27-f6e8-4153-ab0a-02954ed5b691" />
+  
+    <img width="506" height="188" alt="image" src="https://github.com/user-attachments/assets/d5cf6c27-f6e8-4153-ab0a-02954ed5b691" />
+
+- Cuestionario alumnado ( Kahoot: https://kahoot.it/ )
+
+### 4. Instalación Ubuntu Server. Configuración por defecto
+- 2GB RAM
+- 1 CPUs
+- 500GB dinámico, configuración del almacenamiento predeterminado (el asistente creará una pequeña partición para el gestor de arranque, y el resto del disco formará una partición única para todo el sistema).
+- Configuración inicial de la red:
+
+<img width="571" height="276" alt="image" src="https://github.com/user-attachments/assets/64bc537d-b9c1-45c7-bce2-30712f7024c8" />
+
+- Cuestionario alumnado ( Kahoot: https://kahoot.it/ )
 
