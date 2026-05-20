@@ -37,7 +37,7 @@ Aprender a instalar y configurar un entorno de red corporativa con:
 | | | Creación de grupos: "Máquinas limpias" y "Máquinas SOR" |
 | | | Instantánea antes de AD |
 | | | Instalación del rol AD DS |
-| | | Promoción a Controlador de Dominio: Nuevo bosque: miempresaXXX.local, Contraseña DSRM: P@ssw0rd, Servidor DNS automático |
+| | | Promoción a Controlador de Dominio |
 | 2:30 - 3:30 | Active Directory (Parte 2) | Clonación de MVs (Generar nuevas MAC) |
 | | | Creación de MVs: Windows 11. Requisitos para la instalación |
 | | | Unión del equipo W11 al dominio *miempresaXXX.local* |
