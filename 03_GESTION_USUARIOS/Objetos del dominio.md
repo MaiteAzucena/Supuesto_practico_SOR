@@ -7,6 +7,7 @@
 - *NOTA*: La creación de los distintos objetos se puede llevar a cabo en otro orden y después organizarlo todo.
 - Cuestionario alumnado ( Kahoot: https://kahoot.it/ )
 - 🎯 *Debate: Una empresa está organizada en dos departamentos:
+  
               - Departamento de Jefes
   
               - Departamento de Curritos.
