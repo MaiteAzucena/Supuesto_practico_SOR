@@ -47,6 +47,28 @@ Aprender a instalar y configurar un entorno de red corporativa con:
 
 ---
 
+## Jornada 2 (4-5h)
+
+| **HORA** | **ACTIVIDAD** | **CONTENIDO** |
+| --- | --- | --- |
+| 0:00 - 0:30 | Repaso | Vistazo rápido y dudas planteadas de los contenidos anteriores |
+| 0:30 - 1:30 | Gestión de objetos del dominio | Usuarios, grupos y equipos|
+| | | Perfiles: móviles y obligatorios |
+| 1:30 - 2:30 | Recursos compartidos | Carpetas personales y carpetas compartidas |
+| | | Permisos de carpetas compartidas y permisos NFTS |
+| | | Unidades de red |
+| | | Impresoras compartirdas y servidor de impresión |
+| 2:30 - 3:30 | Integración con Linux | Creación de MVs: Linux Mint |
+| | | Unión del equipo Linux Mint al dominio |
+| | | Inicio de sesión con un usuario del dominio en el cliente Linux Mint |
+| | | Carpeta compartida desde Linux y acceso desde Windows |
+| 3:30 - 4:00 | Monitorización | |
+| | | Ver eventos (de seguridad) en Visor de Eventos |
+| | | Auditorias (recursos compartidos) |
+| | | Monitor de rendimiento: contadores de CPU, Memoria, Disco, Red |
+| 4:00 - 4:30 | Preguntas y cierre | Preguntas finales. Resolución de dudas |
+
+---
 👉 Con esta planificación:
 
 * **Horas totales** = 5h + 5h = **10h**.
