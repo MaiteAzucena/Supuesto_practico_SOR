@@ -11,3 +11,4 @@
 - Cuestionario alumnado ( Kahoot: https://kahoot.it/ )
 - 🎯 *Pregunta para el alumando: ¿Se puede hacer una instalación de Windows Server sin interfaz gráfica?, ¿Qué ventajas y desventajas ofrece este tipo de instalación?*
 
+
