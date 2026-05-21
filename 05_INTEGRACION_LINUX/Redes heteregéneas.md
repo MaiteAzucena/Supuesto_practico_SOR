@@ -24,4 +24,9 @@
 
 - 🎯 *Pregunta para el alumando: ¿Se puede iniciar sesión en un equipo Linux Mint con una cuenta de usuario del dominio que no pertenece al grupo de Administradores del dominio?*
 
+## 3. Acceso a recursos compartidos desde el cliente Linux Mint
+- Para acceder a un recurso compartido en el servidor desde el equipo Linux Mint, hay que conectarse al mismo utilizando *smb://dirección IP del servidor*
+- Una vez dentro, dependiendo de la configuración de los permsisos para el usuario, podremos realizar unas u otras acciones.
+- Para compartir un recurso en Linux Mint y acceder desde otro equipo del dominio hay que instalar complementos (**samba** y configurar adecuadamente el fichero de configuración: añadir los usuarios que van a acceder y configurar los directorios).
 
+- 🎯 *Debate: Trabajar con un sistema GNU/Linux sin interfaz gráfica*
