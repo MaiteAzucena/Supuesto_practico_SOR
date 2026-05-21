@@ -71,4 +71,4 @@ Aprender a instalar y configurar un entorno de red corporativa con:
 👉 Con esta planificación:
 
 * **Horas totales** = 5h + 5h = **10h**.
-* Cada sesión incluye **teoría aplicada + ejercicios prácticos**.
+* Cada sesión incluye **teoría aplicada + supuestos prácticos**.
