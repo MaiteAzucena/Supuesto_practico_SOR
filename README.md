@@ -53,7 +53,7 @@ Aprender a instalar y configurar un entorno de red corporativa con:
 | --- | --- | --- |
 | 0:00 - 0:30 | Repaso | Vistazo rápido y dudas planteadas de los contenidos anteriores |
 | 0:30 - 1:30 | Gestión de objetos del dominio | Usuarios, grupos y equipos|
-| | | Perfiles: móviles y obligatorios |
+| | | Perfiles: locales y de red |
 | 1:30 - 2:30 | Recursos compartidos | Carpetas personales y carpetas compartidas |
 | | | Permisos de carpetas compartidas y permisos NFTS |
 | | | Unidades de red |
