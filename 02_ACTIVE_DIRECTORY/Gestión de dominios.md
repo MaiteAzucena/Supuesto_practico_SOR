@@ -33,7 +33,16 @@
 <img width="489" height="266" alt="image" src="https://github.com/user-attachments/assets/327f4720-b302-454b-bf9b-0e14c8ba36be" />
 
 - Cuestionario alumnado ( Kahoot: https://kahoot.it/ )
-- 🎯 *Pregunta para el alumando: ¿Se puede hacer una instalación de Windows Server sin interfaz gráfica?, ¿Qué ventajas y desventajas ofrece este tipo de instalación?*
 
+## 5. Integración del cliente Windows 11 al dominio
+- Establecer las características de red
+- Ajustar el nombre del equipo cliente
+- Unir el equipo al dominio
+- **Importante**: Iniciar sesión utilizando una cuenta de usuario de las que ya tenemos definidas en el dominio.
+- 🎯 *Pregunta para el alumando: Una vez que hemos integrado el equipo Windows 11 al dominio, ¿podemos iniciar sesión con una cuenta local (no del dominio)*
+
+## 6. Inicio de sesión con un usuario del dominio en el cliente W11
+- Formato NetBIOS: *miempresaMGR.local\Administrador*
+- Formato UPN - Nombre Principal de Usuario: *Administrador@miempresaMGR.local*
 
   
