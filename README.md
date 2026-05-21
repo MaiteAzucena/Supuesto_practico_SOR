@@ -57,7 +57,7 @@ Aprender a instalar y configurar un entorno de red corporativa con:
 | 1:30 - 2:30 | Recursos compartidos | Carpetas personales y carpetas compartidas |
 | | | Permisos de carpetas compartidas y permisos NFTS |
 | | | Unidades de red |
-| | | Impresoras compartirdas y servidor de impresión |
+| | | Impresoras compartidas y servidor de impresión |
 | 2:30 - 3:30 | Integración con Linux | Creación de MVs: Linux Mint |
 | | | Unión del equipo Linux Mint al dominio |
 | | | Inicio de sesión con un usuario del dominio en el cliente Linux Mint |
