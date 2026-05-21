@@ -11,3 +11,11 @@
 - 🎯 *Pregunta para el alumando: ¿Qué diferencia(s) existe entre los permisos de recursos compartidos y los permisos NTFS?*
 
 ## 2. Impresoras compartidas y servidor de impresión
+- Compartir una impresora instalada en el servidor (o en un equipo cliente)
+- Instalar el rol: *Servicios de impresión y documentos* (más profesional, funcionalidad, etc.)
+- Crear los grupos de usuarios que van a poder imprimir.
+- Asignar los permisos de impresión al servidor y/ o a la(s) impresora(s).
+- Importante: Presentar trabajos de impresión en el equipo cliente y Mostrar lista en el directorio.
+
+- Cuestionario alumnado ( Kahoot: https://kahoot.it/ )
+- 🎯 *Pregunta para el alumando: ¿Qué sucede si al configurar una impresora compartida en un equipo cliente no se encuentran los controladores de la impresora?*
