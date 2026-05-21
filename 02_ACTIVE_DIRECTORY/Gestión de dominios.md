@@ -39,7 +39,7 @@
 - Ajustar el nombre del equipo cliente
 - Unir el equipo al dominio
 - **Importante**: Iniciar sesión utilizando una cuenta de usuario de las que ya tenemos definidas en el dominio.
-- 🎯 *Pregunta para el alumando: Una vez que hemos integrado el equipo Windows 11 al dominio, ¿podemos iniciar sesión con una cuenta local (no del dominio)*
+- 🎯 *Pregunta para el alumando: Una vez que hemos integrado el equipo Windows 11 al dominio, ¿podemos iniciar sesión con una cuenta local (no del dominio)?*
 
 ## 6. Inicio de sesión con un usuario del dominio en el cliente W11
 - Formato NetBIOS: *miempresaMGR.local\Administrador*
