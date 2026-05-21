@@ -1,18 +1,18 @@
 # ACTIVE DIRECTORY
 
-## Clonación de MVs y creación de grupos
+## 1. Clonación de MVs y creación de grupos
 - Generar nuevas Mac.
 - Clonación completa y clonación enlazada.
 - Grupos: MVs con la configuración inicial y MVs de trabajo.
 - Cuestionario alumnado ( Kahoot: https://kahoot.it/ )
 - 🎯 *Pregunta para el alumando: ¿Qué diferencia existe entre tomar una instantánea y realizar una clonación enlazada?*
 
-## Instantáneas de MVs
+## 2. Instantáneas de MVs
 - Crear una instántanea antes de cualquier configuración que implique cambios importantes en el sistema.
 - 🎯 *Pregunta para el alumando: ¿Qué diferencia existe entre eliminar una instantánea y restaurar una instantánea?*
 - *Debate: ¿Por qué resulta conveniente trabajar con instantáneas en un entorno de virtualización?*
 
-## Instalación del Directorio Activo (Active Directory AD DS) en un servidor Windows Server 2022
+## 3. Instalación del Directorio Activo (Active Directory AD DS) en un servidor Windows Server 2022
 1.- Instalación el rol **Servicios de dominio de Active Directory**
   
   -- Importante: Lo debe hacer un usuario *Administrador* y la configuración IP del servidor es conveniente que sea estática.
@@ -23,5 +23,17 @@
   servicios del directorio DSRM, servidor DNS, nombre NetBIOS del dominio y la ubicación de los datos del directorio.
 - Cuestionario alumnado ( Kahoot: https://kahoot.it/ )
 - 🎯 *Pregunta para el alumando: En una red con dominio, ¿qué papel juega el servidor respecto a los clientes?*
+
+## 4. Instalación de Windows 11. Configuración inicial
+- 4GB RAM
+- 2 CPUs
+- 100GB dinámico con 2 particiones (una de 50GB para el sistema operativo (SISTEMA) y el resto para DATOS).
+- Configuración inicial de la red:
+
+<img width="489" height="266" alt="image" src="https://github.com/user-attachments/assets/327f4720-b302-454b-bf9b-0e14c8ba36be" />
+
+- Cuestionario alumnado ( Kahoot: https://kahoot.it/ )
+- 🎯 *Pregunta para el alumando: ¿Se puede hacer una instalación de Windows Server sin interfaz gráfica?, ¿Qué ventajas y desventajas ofrece este tipo de instalación?*
+
 
   
