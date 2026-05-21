@@ -62,8 +62,7 @@ Aprender a instalar y configurar un entorno de red corporativa con:
 | | | Unión del equipo Linux Mint al dominio |
 | | | Inicio de sesión con un usuario del dominio en el cliente Linux Mint |
 | | | Carpeta compartida desde Linux y acceso desde Windows |
-| 3:30 - 4:00 | Monitorización | |
-| | | Ver eventos (de seguridad) en Visor de Eventos |
+| 3:30 - 4:00 | Monitorización | Ver eventos (de seguridad) en Visor de Eventos |
 | | | Auditorias (recursos compartidos) |
 | | | Monitor de rendimiento: contadores de CPU, Memoria, Disco, Red |
 | 4:00 - 4:30 | Preguntas y cierre | Preguntas finales. Resolución de dudas |
