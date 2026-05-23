@@ -34,7 +34,6 @@ Aprender a instalar y configurar un entorno de red corporativa con:
 | | | Descarga de las imágenes ISO desde las web oficiales |
 | | | Creación de MVs: Windows Server. Requisitos para la instalación |
 | | | Creación de MVs: Ubuntu Server. Configuración por defecto |
-| | | Cuestionario alumnado |
 | 1:30 - 2:30 | Active Directory (Parte 1) | Clonación de MVs (Generar nuevas MAC) |
 | | | Creación de grupos: "Máquinas limpias" y "Máquinas SOR" |
 | | | Instantánea antes de AD |
