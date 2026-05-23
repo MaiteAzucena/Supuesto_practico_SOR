@@ -22,10 +22,11 @@
 - Monitorización básica del sistema. Comandos: *top* y *htop*
 - Monitorización básica del sistema. Interfaz gráfica: *Monitor del sistema* (similar a Windows)
 
-- 🎯 *Debate:*
+🎯 *Debate:*
   
-  **Situación**: Imagina que eres el encargado de administrar un servidor que empieza a funcionar muy lento. Tienes dos formas de averiguar qué ocurre:
-  1. Opción A: Usar comandos de texto (top o htop).
-  2. Opción B: Usar la interfaz gráfica (como el Monitor del sistema de Linux o el Administrador de tareas de Windows).
-     
-  **Pregunta para debatir:** ¿Qué opción crees que es mejor para descubrir por qué va lento el servidor, la A (comandos de texto) o la B (interfaz gráfica)? ¿Por qué?
+   **Situación**: Imagina que eres el encargado de administrar un servidor que empieza a funcionar muy lento. Tienes dos formas de averiguar qué ocurre:
+   1. Opción A: Usar comandos de texto (top o htop).
+   2. Opción B: Usar la interfaz gráfica (como el Monitor del sistema de Linux o el Administrador de tareas de Windows).
+      
+   **Pregunta para debatir:** ¿Qué opción crees que es mejor para descubrir por qué va lento el servidor, la A (comandos de texto) o la B (interfaz        gráfica)? ¿Por qué?
+  
