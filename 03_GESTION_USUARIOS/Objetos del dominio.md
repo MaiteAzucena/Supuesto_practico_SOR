@@ -6,7 +6,7 @@
 - Integrar los usuarios dentro de los grupos que corresponda.
 - *NOTA*: La creación de los distintos objetos se puede llevar a cabo en otro orden y después organizarlo todo.
 - Las horas de inicio de sesión y los equipos dónde se puede iniciar, se configuran en el cuadro de diálogo Propiedades del usuario o del grupo en cuestión.
-- Si tenemos usuarios con configuraciones simimlares, se pueden crear plantillas.
+- Si tenemos usuarios con configuraciones similares, se pueden crear plantillas.
   
 - Cuestionario alumnado ( Kahoot: https://kahoot.it/ )
 - 🎯 Debate: Una empresa está organizada en dos departamentos:
